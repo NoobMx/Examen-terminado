@@ -92,7 +92,7 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="single.php">Reconocer los conceptos de sistemas de infromación.</a></h2>
+										<h2><a href="singleJ.php">Reconocer los conceptos de sistemas de infromación.</a></h2>
 										<p>Introducción a la arquitectura Cliente-Servidor</p>
 									</div>
 									<div class="meta">
@@ -100,7 +100,7 @@
 										<a href="#" class="author"><span class="name">Emmanuel Servin</span><img src="images/avatar.jpg" alt="" /></a>
 									</div>
 								</header>
-								<a href="single.php" class="image featured"><img src="images/pc1.jpg" alt="" /></a>
+								<a href="singleJ.php" class="image featured"><img src="images/pc1.jpg" alt="" /></a>
 								<p>Un sistema de información es un conjunto de componentes que interactúan entre sí con un fin común.</p>
 								<p>En informática, los sistemas de información ayudan a administrar, recolectar, recuperar, procesar, almacenar y distribuir información relevante para los procesos fundamentales y las particularidades de cada organización.</p>
 								<footer>
