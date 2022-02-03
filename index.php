@@ -153,7 +153,7 @@
 										<a href="#" class="author"><span class="name">Emmanuel Servin</span><img src="images/avatar.jpg" alt="" /></a>
 									</div>
 								</header>
-								<a href="single.php" class="image featured"><img src="images/p2.jpg" alt="" /></a>
+								<a href="single two.php" class="image featured"><img src="images/p2.jpg" alt="" /></a>
 								<p>En esta arquitectura la computadora de cada uno de los usuarios, llamada cliente, produce una demanda de información a cualquiera de las computadoras que proporcionan información, conocidas como servidores estos últimos responden a la demanda del cliente que la produjo.
 									Los clientes y los servidores pueden estar conectados a una red local o una red amplia, como la que se puede implementar en una empresa o a una red mundial como lo es la Internet.</p>
 								<footer>
